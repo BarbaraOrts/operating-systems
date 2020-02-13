@@ -1,0 +1,5 @@
+User interface between software and hardware
+Can be a graphical user interface (GUI) or a command-line interface (CLI). 
+Graphical is when the user clicks on images to tell the OS to perform tasks.
+Command-line is when the user types commands to tell the OS to do stuff.
+
