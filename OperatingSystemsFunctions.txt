@@ -6,3 +6,5 @@ Command-line is when the user types commands to tell the OS to do stuff.
 2. Hardware management
 The OS manages all hardware. Each different hardware has a driver and the communnication needed between the hardware and the other parts of the system is done by the OS
 
+3. Data management
+The OS lets the user copy/paste/move and delete files. The user can view the folder structures and modify them. 
