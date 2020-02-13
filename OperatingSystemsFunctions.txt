@@ -1,5 +1,8 @@
-User interface between software and hardware
+1. User interface between software and hardware
 Can be a graphical user interface (GUI) or a command-line interface (CLI). 
 Graphical is when the user clicks on images to tell the OS to perform tasks.
 Command-line is when the user types commands to tell the OS to do stuff.
+
+2. Hardware management
+The OS manages all hardware. Each different hardware has a driver and the communnication needed between the hardware and the other parts of the system is done by the OS
 
